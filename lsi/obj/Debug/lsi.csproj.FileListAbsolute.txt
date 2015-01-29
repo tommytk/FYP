@@ -1,0 +1,10 @@
+C:\Users\Tom.Tom-Phantom\Documents\Builds\StopList\StopList.txt
+C:\Users\Tom.Tom-Phantom\Documents\Builds\lsi.exe
+C:\Users\Tom.Tom-Phantom\Documents\Builds\lsi.pdb
+C:\Users\Tom.Tom-Phantom\Documents\lsi\obj\Debug\lsi.csprojResolveAssemblyReference.cache
+C:\Users\Tom.Tom-Phantom\Documents\lsi\obj\Debug\lsi.frmMain.resources
+C:\Users\Tom.Tom-Phantom\Documents\lsi\obj\Debug\lsi.frmConfigure.resources
+C:\Users\Tom.Tom-Phantom\Documents\lsi\obj\Debug\lsi.Properties.Resources.resources
+C:\Users\Tom.Tom-Phantom\Documents\lsi\obj\Debug\lsi.csproj.GenerateResource.Cache
+C:\Users\Tom.Tom-Phantom\Documents\lsi\obj\Debug\lsi.exe
+C:\Users\Tom.Tom-Phantom\Documents\lsi\obj\Debug\lsi.pdb
